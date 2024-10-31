@@ -1,0 +1,149 @@
+{
+  "films": [
+    {
+      "id": "inception-2010",
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "year": 2010,
+      "synopsis": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "scenes": [
+        {
+          "id": "scene-1",
+          "name": "The Beach",
+          "description": "Cobb washes up on the beach and is brought to elderly Saito",
+          "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+          "shots": [
+            {
+              "type": "Wide Shot",
+              "duration": "0:00:30",
+              "description": "Aerial view of waves crashing on the beach"
+            }
+          ],
+          "dialogue": [
+            {
+              "character": "Saito",
+              "line": "Have you come to kill me?",
+              "timestamp": "0:00:45"
+            }
+          ],
+          "duration": "2:30",
+          "location": "Japanese Castle"
+        },
+        {
+          "id": "scene-2",
+          "name": "The Hotel",
+          "description": "Arthur demonstrates the paradoxical architecture of dreams using the infinite staircase",
+          "imageUrl": "https://images.unsplash.com/photo-1618377385526-83312906f0dc",
+          "shots": [
+            {
+              "type": "Tracking Shot",
+              "duration": "0:00:45",
+              "description": "Camera follows Arthur and Ariadne up the infinite staircase"
+            },
+            {
+              "type": "Close-Up",
+              "duration": "0:00:15",
+              "description": "Ariadne's reaction to discovering the paradox"
+            }
+          ],
+          "dialogue": [
+            {
+              "character": "Arthur",
+              "line": "In a dream, you can cheat architecture into impossible shapes.",
+              "timestamp": "0:00:20"
+            },
+            {
+              "character": "Ariadne",
+              "line": "That's incredible...",
+              "timestamp": "0:00:35"
+            }
+          ],
+          "duration": "3:15",
+          "location": "Dream Hotel"
+        }
+      ]
+    },
+    {
+      "id": "the-godfather-1972",
+      "title": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "year": 1972,
+      "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "scenes": [
+        {
+          "id": "scene-1",
+          "name": "The Wedding",
+          "description": "The opening scene at Connie's wedding where Don Vito Corleone holds court in his office",
+          "imageUrl": "https://images.unsplash.com/photo-1519225421980-715cb0215aed",
+          "shots": [
+            {
+              "type": "Establishing Shot",
+              "duration": "0:00:45",
+              "description": "Wide view of the Corleone family compound during the wedding"
+            },
+            {
+              "type": "Close-Up",
+              "duration": "0:00:20",
+              "description": "Don Corleone's face as he listens to Bonasera's request"
+            }
+          ],
+          "dialogue": [
+            {
+              "character": "Bonasera",
+              "line": "I believe in America...",
+              "timestamp": "0:00:15"
+            },
+            {
+              "character": "Don Corleone",
+              "line": "We've known each other many years, but this is the first time you've come to me for counsel.",
+              "timestamp": "0:01:30"
+            }
+          ],
+          "duration": "4:15",
+          "location": "Corleone Family Compound"
+        }
+      ]
+    },
+    {
+      "id": "pulp-fiction-1994",
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "year": 1994,
+      "synopsis": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "scenes": [
+        {
+          "id": "scene-1",
+          "name": "The Diner",
+          "description": "The opening and closing scene in the diner with Pumpkin and Honey Bunny",
+          "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5",
+          "shots": [
+            {
+              "type": "Two Shot",
+              "duration": "0:00:30",
+              "description": "Pumpkin and Honey Bunny sitting at their booth"
+            },
+            {
+              "type": "Wide Shot",
+              "duration": "0:00:15",
+              "description": "The entire diner as they stand up to announce the robbery"
+            }
+          ],
+          "dialogue": [
+            {
+              "character": "Pumpkin",
+              "line": "Everybody be cool, this is a robbery!",
+              "timestamp": "0:02:15"
+            },
+            {
+              "character": "Honey Bunny",
+              "line": "Any of you fucking pricks move, and I'll execute every motherfucking last one of ya!",
+              "timestamp": "0:02:20"
+            }
+          ],
+          "duration": "3:45",
+          "location": "Hawthorne Grill"
+        }
+      ]
+    }
+  ]
+}
